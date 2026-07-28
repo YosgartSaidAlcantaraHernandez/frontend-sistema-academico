@@ -8,7 +8,7 @@ import CarreraList from "./components/carreras/CarreraList";
 import CarreraForm from "./components/carreras/CarreraForm";
 import MateriaList from "./components/materias/MateriaList";
 import MateriaForm from "./components/materias/MateriaForm";
-import InscripcionList from "./components/inscripciones/InscripcionList";
+import InscripcionList from "./components/inscripciones/inscripcionList";
 import InscripcionForm from "./components/inscripciones/InscripcionForm";
 
 function App() {

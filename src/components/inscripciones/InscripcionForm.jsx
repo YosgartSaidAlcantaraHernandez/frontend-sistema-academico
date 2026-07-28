@@ -3,9 +3,9 @@ import { useNavigate, useParams } from "react-router-dom";
 import toast from "react-hot-toast";
 
 import {
-  createInscripcion,
-  getInscripcion,
-  updateInscripcion,
+  createinscripcion,
+  getinscripcion,
+  updateinscripcion,
 } from "../../api/inscripciones";
 
 import { getAlumnos } from "../../api/alumnos";
